@@ -19,7 +19,7 @@ pip install rich
 ## Uso
 
 ```bash
-irm https://raw.githubusercontent.com/Sebastian-Rb/PyArchive/main/GestorArchivos.py | python -
+irm https://raw.githubusercontent.com/Sebastian-Rb/PyArchive/main/run.ps1 | iex
 ```
 
 Se abre una consola interactiva. Escribe `help` para ver todos los comandos.
