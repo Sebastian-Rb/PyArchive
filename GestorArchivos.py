@@ -67,10 +67,10 @@ class FileManager(cmd.Cmd):
                 tipo = "[blue]DIR[/blue]" if os.path.isdir(ruta_completa) else "[white]FILE[/white]"
 
                 try:
-                    tamaño = os.path.getsize(ruta_completa)
+                    tamanio = os.path.getsize(ruta_completa)
                 except OSError: 
-                    tamaño = "N/A"
-                table.add_row(nombre, tipo, str(tamaño))
+                    tamanio = "N/A"
+                table.add_row(nombre, tipo, str(tamanio))
             
             console.print(table)
             ok(f"{len(entradas)} entradas encontradas.")
