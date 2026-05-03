@@ -1,4 +1,4 @@
-# PyArchive - Sistema de gestion de archivos con CLI
+# PyArchive Gestor - Sistema de gestion de archivos con CLI
 **Sistemas Operativos — Grupo 11**
 
 Gestor de archivos interactivo por consola que simula y visualiza las llamadas al sistema (syscalls) involucradas en operaciones comunes del sistema de archivos. Desarrollado como parte del trabajo práctico sobre llamadas al sistema en sistemas operativos.
