@@ -71,6 +71,7 @@ Cada operación tiene nombradas las syscalls equivalentes en sistemas UNIX/Linux
 
 ## Integrantes
 
-- <!-- nombre -->
-- <!-- nombre -->
-- <!-- nombre -->
+- Sebastian Ramirez Bravo
+- Damaris Martinez Faguinzon
+- Luis Tejada Santos
+- Isaac Zambrano Rumbea
